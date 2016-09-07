@@ -1,0 +1,14 @@
+{
+  "name": "audio-analyzer-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "analyze.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "waveform-node": "^0.3.1"
+  }
+}
